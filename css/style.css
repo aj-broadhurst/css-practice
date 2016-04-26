@@ -1,0 +1,38 @@
+/**
+*CSS comments look just like PHP comments.
+*CSS Demo Stylesheet.
+*author: AJ Broadhurst
+**/
+
+/**
+*Body Layout
+**/
+.container{
+	width: 960px;
+	margin: 0 auto;
+}
+
+body {
+	margin: 0;
+}
+
+
+/**
+*Header
+**/
+header{
+	background-color: aquamarine;
+}
+
+/**
+*Main
+**/
+.width-50{
+}
+
+p{
+	background-color: aquamarine;
+	border: 5px solid black;
+	margin: 25px 0;
+	padding: 20px;
+}
